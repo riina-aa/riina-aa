@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hej, jag heter Riina!  
 
-<!--
-**riina-aa/riina-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Välkommen till min profil ✨  
 
-Here are some ideas to get you started:
+Jag är en **digital innehållsproducent** med intresse för:
+- 🎯 Hållbar kommunikation  
+- 🌍 Digitala medier & samhällspåverkan  
+- 💻 Webbutveckling och design   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Mina kunskaper   
+- **Design & Media:**  
+  Adobe Creative Suite | Canva  
+- **Kommunikation & strategi:**  
+  Sociala medier | Content Marketing | Storytelling  
+
+---
+
+### 🌱 Just nu läser jag 
+Jag studerar Webbutveckling på Mittuniversitetet och har följande kurser: 
+- Programmering i JavaScript  
+- Webbutveckling 1 
+
+---
+
